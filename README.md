@@ -11,3 +11,20 @@
 * **removeAt(index)** - removes an element at a given index from the list
 * **clear()** - removes all of the elements from the list
 * **toArray()** - returns the values from the list as an array
+
+## LinkedList
+
+* **add(element)** - appends an element to the list
+* **addAt(index, element)** - adds an element at a given index in the list
+* **addFirst(element)** - adds an element at the beginning of the list
+* **addLast(element)** - adds an element at the end of the list
+* **getAt(index)** - gets element by index from the list
+* **getFirst()** - gets the first element in the list
+* **getLast()** - gets the last element in the list
+* **toArray()** - returns the values from the list as an array
+* **contains(element)** - checks if a given element exists in the list
+* **size()** - returns the number of elements in the list
+* **removeAt(index)** - removes an element at a given index from the list
+* **removeFirst()** - removes the first element in the list
+* **removeLast()** - removes the last element in the list
+* **clear()** - removes all of the elements from the list
