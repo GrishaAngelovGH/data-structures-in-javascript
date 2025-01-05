@@ -28,3 +28,11 @@
 * **removeFirst()** - removes the first element in the list
 * **removeLast()** - removes the last element in the list
 * **clear()** - removes all of the elements from the list
+
+## Queue
+
+* **add(element)** - adds an element to the queue
+* **poll()** - retrieves and removes an element from the beginning of the queue
+* **peek()** - returns an element from the beginning of the queue without removing it
+* **size()** - returns the number of elements in the queue
+* **isEmpty()** - checks if the queue contains any elements
