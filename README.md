@@ -36,3 +36,12 @@
 * **peek()** - returns an element from the beginning of the queue without removing it
 * **size()** - returns the number of elements in the queue
 * **isEmpty()** - checks if the queue contains any elements
+
+## Stack
+
+* **push(element)** - adds an element to the stack
+* **pop()** - retrieves and removes an element from the end of the stack
+* **peek()** - returns an element from the beginning of the queue without removing it
+* **search(element)** - returns the 1-based position where an element is on the stack
+* **isEmpty()** - checks if the queue contains any elements
+* **toArray()** - returns the values from the stack as an array
