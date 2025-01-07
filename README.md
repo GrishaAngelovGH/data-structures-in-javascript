@@ -45,3 +45,13 @@
 * **search(element)** - returns the 1-based position where an element is on the stack
 * **isEmpty()** - checks if the queue contains any elements
 * **toArray()** - returns the values from the stack as an array
+
+## Set
+
+* **add(element)** - adds an element to the set if it isn't already present
+* **remove(element)** - removes an element from the set if it's present 
+* **contains(element)** - checks if a given element exists in the set
+* **size()** - returns the number of elements in the set
+* **isEmpty()** - checks if the set contains any elements
+* **clear()** - removes all of the elements from the set
+* **toArray()** - returns the values from the set as an array
