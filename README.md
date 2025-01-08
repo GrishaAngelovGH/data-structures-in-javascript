@@ -55,3 +55,16 @@
 * **isEmpty()** - checks if the set contains any elements
 * **clear()** - removes all of the elements from the set
 * **toArray()** - returns the values from the set as an array
+
+## HashMap
+
+* **put(key, value)** - associates the value with the key in the map. If the map previously contained a mapping for the key, the old value is replaced
+* **get(key)** - returns the value to which the specified key is mapped
+* **remove(key)** - removes the mapping for the specified key from the map
+* **containsKey(key)** - checks if the map contains a mapping for the specified key
+* **size()** - returns the number of the mappings in the map
+* **isEmpty()** - checks if the map contains any key-value mappings
+* **keySet()** - retrieves all of the keys contained in the map
+* **values()** - retrieves all of the values contained in the map
+* **entrySet()** - retrieves the mappings contained in the map
+* **clear()** - removes all of the mappings from the map
