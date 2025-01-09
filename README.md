@@ -68,3 +68,8 @@
 * **values()** - retrieves all of the values contained in the map
 * **entrySet()** - retrieves the mappings contained in the map
 * **clear()** - removes all of the mappings from the map
+
+## BinaryTree
+
+* **breadthFirstSearch()** - traverses the tree using the Breadth First Search algorithm
+* **depthFirstSearch()** - traverses the tree using the Depth First Search algorithm
